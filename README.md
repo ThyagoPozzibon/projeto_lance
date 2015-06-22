@@ -1,3 +1,5 @@
-# sitepessoal #
-uma copia do que estava no bitbucket
 # projeto_lance
+Trello
+https://trello.com/b/tQCzfjT1/lance
+
+
